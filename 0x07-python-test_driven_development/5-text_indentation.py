@@ -13,7 +13,7 @@ def text_indentation(text):
     for a in text:
         if flag == 0:
             if a == ' ':
-                continue
+                flag = 1
             else:
                 flag = 1
         if flag == 1:
