@@ -14,13 +14,3 @@ def is_same_class(obj, a_class):
     if type(obj) == a_class:
         return True
     return False
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact 
